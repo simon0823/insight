@@ -2,6 +2,14 @@
 
 > A Vue.js project
 
+## vue install
+
+> npm install vue-cli -g
+> vue init webpack project-name
+> cd project-name
+> npm install
+> npm start
+
 ## Build Setup
 
 ``` bash
