@@ -4,11 +4,11 @@
 
 ## vue install
 
-> npm install vue-cli -g
-> vue init webpack project-name
-> cd project-name
-> npm install
-> npm start
+> npm install vue-cli -g <br/>
+> vue init webpack project-name <br/>
+> cd project-name <br/>
+> npm install <br/>
+> npm start <br/>
 
 ## Build Setup
 
